@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://capoeirasamui.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/"
+                href="https://capoeirasamui.com/th/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/"
+                href="https://capoeirasamui.com/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/"
+                href="https://capoeirasamui.com/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/he/"
+                href="https://capoeirasamui.com/he/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://capoeirasamui.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://capoeirasamui.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/categories/"
+                href="https://capoeirasamui.com/th/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/categories/"
+                href="https://capoeirasamui.com/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/categories/"
+                href="https://capoeirasamui.com/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/he/categories/"
+                href="https://capoeirasamui.com/he/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://capoeirasamui.com/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://capoeirasamui.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/tags/"
+                href="https://capoeirasamui.com/th/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/"
+                href="https://capoeirasamui.com/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/tags/"
+                href="https://capoeirasamui.com/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://localhost:1313/he/tags/"
+                href="https://capoeirasamui.com/he/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://capoeirasamui.com/tags/"
                 />
   </url>
 </urlset>
