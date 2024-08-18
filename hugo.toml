@@ -1,0 +1,51 @@
+baseURL = 'https://capoeirasamui.com'
+languageCode = 'en-us'
+title = 'Capoeira Samui'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+resourceDir = "../resources"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+featured_image = ''
+omit_header_text = true
+
+[languages]
+  [languages.en]
+    languageName = "ENG"
+    weight = 1
+    contentDir = "content/en"
+  [languages.th]
+    languageName = "ไทย"
+    weight = 2
+    contentDir = "content/th"
+  [languages.ru]
+    languageName = "РУC"
+    weight = 3
+    contentDir = "content/ru"
+  [languages.he]
+    contentDir = "content/he"
+    languageName = "עברית"
+    languageDirection = 'rtl'
+    weight = 5
+  [languages.pt]
+    languageName = "POR"
+    weight = 4
+    contentDir = "content/pt"
+
+[params]
+  favicon = "favicon.png"
+  site_logo = "images/logo.png"
+  background_color_class = "bg-navy"
+  mainSections = ['']
+  custom_css = ["custom.css"]
+
+[[params.ananke_socials]]
+  name = "instagram"
+  url = "https://www.instagram.com/capoeirasamui"
+
+[[params.ananke_socials]]
+  name = "facebook"
+  url = "https://www.facebook.com/capoeirasamui"
+
+[[params.ananke_socials]]
+  name = "whatsapp"
+  url = "https://wa.link/cmotjh"
