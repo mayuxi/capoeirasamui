@@ -3,6 +3,7 @@ title: Capoeira on Koh Samui
 layout: single
 type: page
 lang: en
+summary: "We are a passionate, non-profit collective of capoeira enthusiasts based on Koh Samui. Our mission is to enjoy the game of capoeira while spreading knowledge and awareness of its rich Afro-Brazilian traditions—music, movements, and culture"
 
 ---
 

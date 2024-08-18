@@ -3,6 +3,7 @@ title: Capoeira em Koh Samui
 layout: single
 type: page
 lang: pt-BR
+summary: "Somos um grupo apaixonado e sem fins lucrativos de entusiastas da capoeira com sede em Koh Samui. Nossa missão é aproveitar o jogo da capoeira enquanto espalhamos conhecimento e conscientização sobre as ricas tradições afro-brasileiras — música, movimentos e cultura. Convidamos todos a se juntarem a nós na celebração dessa arte dinâmica."
 
 ---
 
