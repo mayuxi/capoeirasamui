@@ -28,59 +28,5 @@
                 hreflang="pt"
                 href="https://capoeirasamui.com/pt/"
                 />
-  </url><url>
-    <loc>https://capoeirasamui.com/pt/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://capoeirasamui.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="th"
-                href="https://capoeirasamui.com/th/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://capoeirasamui.com/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://capoeirasamui.com/he/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://capoeirasamui.com/pt/categories/"
-                />
-  </url><url>
-    <loc>https://capoeirasamui.com/pt/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://capoeirasamui.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="th"
-                href="https://capoeirasamui.com/th/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://capoeirasamui.com/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://capoeirasamui.com/he/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://capoeirasamui.com/pt/tags/"
-                />
   </url>
 </urlset>

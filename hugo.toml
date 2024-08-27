@@ -9,6 +9,9 @@ featured_image = ''
 omit_header_text = true
 enableRobotsTXT = true
 
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["taxonomy", "term", "RSS"]
+
 [languages]
   [languages.en]
     languageName = "ENG"

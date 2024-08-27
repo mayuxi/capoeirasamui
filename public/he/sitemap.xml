@@ -2,60 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://capoeirasamui.com/he/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://capoeirasamui.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="th"
-                href="https://capoeirasamui.com/th/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://capoeirasamui.com/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://capoeirasamui.com/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://capoeirasamui.com/he/categories/"
-                />
-  </url><url>
-    <loc>https://capoeirasamui.com/he/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://capoeirasamui.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="th"
-                href="https://capoeirasamui.com/th/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://capoeirasamui.com/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://capoeirasamui.com/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://capoeirasamui.com/he/tags/"
-                />
-  </url><url>
     <loc>https://capoeirasamui.com/he/</loc>
     <xhtml:link
                 rel="alternate"
