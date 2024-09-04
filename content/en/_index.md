@@ -13,10 +13,16 @@ We are a passionate, non-profit collective of capoeira enthusiasts based on Koh 
 Capoeira is a unique blend of martial arts, acrobatics, music, and dance, originating from Afro-Brazilian culture. It’s a sport, a game, and a powerful form of self-expression that combines fluid movements with rhythmic music, creating a vibrant and energetic experience.
 
 ## Schedule & Location
+**Wednesdays, 11:00 AM**  
+At BxB Fight Lab, Lamai, Koh Samui
+
+[![Location](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7)
+<!--
 **Wednesdays, 10:00 AM**  
 At Hua Thanon Viewpoint, Koh Samui
 
 [![Location](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)
+-->
 
 ## Contact
 - [WhatsApp](https://wa.link/cmotjh)

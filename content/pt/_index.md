@@ -13,10 +13,14 @@ Somos um grupo apaixonado e sem fins lucrativos de entusiastas da capoeira com s
 Capoeira é uma mistura única de artes marciais, acrobacias, música e dança, originária da cultura afro-brasileira. É um esporte, um jogo e uma poderosa forma de expressão que combina movimentos fluidos com música rítmica, criando uma experiência vibrante e cheia de energia.
 
 ## Horário e Localização
-**Quartas-feiras, 10:00 AM**  
+**Quartas-feiras, 11:00 AM**
+No BxB Fight Lab, Lamai, Koh Samui
+
+[![Localização](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7)
+<!-- **Quartas-feiras, 10:00 AM**  
 No Mirante Hua Thanon, Koh Samui
 
-[![Localização](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)
+[![Localização](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8) -->
 
 ## Contato
 - [WhatsApp](https://wa.link/cmotjh)
