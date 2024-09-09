@@ -55,3 +55,8 @@ We are a non-profit collective of capoeira enthusiasts united by our love for th
 To cultivate a vibrant, inclusive community where capoeira can flourish, and to share the joy, culture, and tradition of capoeira with the world. We are here to play, learn, and grow together, united by the rhythm of the berimbau and the spirit of camaraderie.
 
 Axé!
+
+## Our friends
+* [CapoeiraWiki](https://capoeirawiki.org/), the free capoeira encyclopedia
+* [The Shanghai Center for Capoeira](https://movementfamily.com)
+* [Capoeira Mandinga Hangzhou](https://capoeirahangzhou.com)
