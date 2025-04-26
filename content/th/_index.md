@@ -15,12 +15,12 @@ description: "คาโปเอร่าบนเกาะสมุย สน�
 
 ## ตารางและสถานที่
 ตรวจสอบตารางเรียนล่าสุดผ่าน WhatsApp  
-**วันพุธ เวลา 11:00 น.**  
+<!-- **วันพุธ เวลา 11:00 น.**  
 ที่ BxB Fight Lab, ละไม, เกาะสมุย
 
-[![สถานที่](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7)
+[![สถานที่](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7) -->
 
-**วันเสาร์ เวลา 10:00 น.**  
+**วันเสาร์ เวลา 10:30 น.**  
 ที่จุดชมวิวหัวถนน เกาะสมุย
 
 [![สถานที่](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)

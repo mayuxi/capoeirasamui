@@ -15,12 +15,12 @@ description: "קפוארה בקו סמוי נהנים מהמשחק ומשתפי�
 ## לוח זמנים ומיקום
 בדקו את השעות המדויקות ב-WhatsApp.  
 
-**יום רביעי, 11:00**  
+<!-- **יום רביעי, 11:00**  
 ב-BxB Fight Lab, למאי, קו סמוי
 
-[![מיקום](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7)
+[![מיקום](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7) -->
 
-**יום שבת, 10:00 בבוקר**  
+**יום שבת, 10:30 בבוקר**  
 בתצפית חואה תנון, קו סמוי
 
 [![מיקום](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)

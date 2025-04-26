@@ -14,12 +14,14 @@ Capoeira is a unique blend of martial arts, acrobatics, music, and dance, origin
 ## Schedule & Location
 Check the exact schedule via WhatsApp.  
 
+<!-- 
 **Wednesdays, 11:00 AM**  
 At BxB Fight Lab, Lamai, Koh Samui
 
 [![Location](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7)
+-->
 
-**Saturdays, 10:00 AM**  
+**Sundays, 10:30 AM**  
 At Hua Thanon Viewpoint, Koh Samui
 
 [![Location](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)

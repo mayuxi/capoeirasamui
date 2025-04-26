@@ -1,7 +1,7 @@
 baseURL = 'https://capoeirasamui.com'
 languageCode = 'en-us'
 title = 'Capoeira Samui'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 resourceDir = "../resources"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -43,14 +43,20 @@ disableKinds = ["taxonomy", "term", "RSS"]
   mainSections = ['']
   custom_css = ["custom.css"]
 
-[[params.ananke_socials]]
-  name = "instagram"
-  url = "https://www.instagram.com/capoeirasamui"
+[ananke.social.follow]
+new_window_icon = false
+networks = [
+  "instagram",
+  "facebook",
+  "whatsapp"
+]
 
-[[params.ananke_socials]]
-  name = "facebook"
-  url = "https://www.facebook.com/capoeirasamui"
+[params.ananke.social.instagram]
+username = "capoeirasamui"
 
-[[params.ananke_socials]]
-  name = "whatsapp"
-  url = "https://wa.link/cmotjh"
+[params.ananke.social.facebook]
+username = "capoeirasamui"
+
+[params.ananke.social.whatsapp]
+username = "capoeirasamui"
+profilelink = "https://wa.link/cmotjh"

@@ -15,11 +15,11 @@ description: "Капоэйра на Самуи. Мы играем и делим�
 ## Расписание и место
 Узнавайте точное расписание по WhatsApp
 
-**Среда, 11:00 утра**  
+<!-- **Среда, 11:00 утра**  
 Зал BxB Fight Lab, Ламай, остров Самуи
-[![Местоположение](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7)
+[![Местоположение](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7) -->
 
-**Суббота, 10:00 утра**  
+**Суббота, 10:30 утра**  
 На смотровой площадке Хуа Танон, остров Самуи
 [![Местоположение](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)
 

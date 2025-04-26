@@ -15,12 +15,12 @@ Capoeira é uma mistura única de artes marciais, acrobacias, música e dança, 
 ## Horário e Localização
 Consulte o horário atualizado pelo WhatsApp. 
 
-**Quartas-feiras, 11:00 AM**  
+<!-- **Quartas-feiras, 11:00 AM**  
 No BxB Fight Lab, Lamai, Koh Samui
 
-[![Localização](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7)
+[![Localização](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7) -->
 
-**Sabados, 10:00 AM**  
+**Sabados, 10:30 AM**  
 No Mirante Hua Thanon, Koh Samui
 
 [![Localização](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)
