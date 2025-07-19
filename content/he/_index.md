@@ -20,7 +20,7 @@ description: "קפוארה בקו סמוי נהנים מהמשחק ומשתפי�
 
 [![מיקום](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7) -->
 
-**יום שבת, 10:30 בבוקר**  
+**יום ראשון, 10:00 בבוקר**  
 בתצפית חואה תנון, קו סמוי
 
 [![מיקום](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)

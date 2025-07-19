@@ -20,7 +20,7 @@ description: "คาโปเอร่าบนเกาะสมุย สน�
 
 [![สถานที่](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7) -->
 
-**วันเสาร์ เวลา 10:30 น.**  
+**วันอาทิตย์ เวลา 10:00 น.**  
 ที่จุดชมวิวหัวถนน เกาะสมุย
 
 [![สถานที่](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)

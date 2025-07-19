@@ -19,7 +19,7 @@ description: "Капоэйра на Самуи. Мы играем и делим�
 Зал BxB Fight Lab, Ламай, остров Самуи
 [![Местоположение](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7) -->
 
-**Суббота, 10:30 утра**  
+**Воскресенье, 10:00 утра**  
 На смотровой площадке Хуа Танон, остров Самуи
 [![Местоположение](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)
 
