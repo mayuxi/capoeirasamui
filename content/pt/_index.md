@@ -20,7 +20,7 @@ No BxB Fight Lab, Lamai, Koh Samui
 
 [![Localização](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7) -->
 
-**Domingos, 10:00 AM**  
+**Domingos, 10:30 AM**  
 No Mirante Hua Thanon, Koh Samui
 
 [![Localização](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)

@@ -21,7 +21,7 @@ At BxB Fight Lab, Lamai, Koh Samui
 [![Location](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7)
 -->
 
-**Sundays, 10:00 AM**  
+**Sundays, 10:30 AM**  
 At Hua Thanon Viewpoint, Koh Samui
 
 [![Location](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)
