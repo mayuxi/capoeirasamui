@@ -9,13 +9,15 @@ description: "Capoeira collective in Koh Samui. We enjoy the game while sharing 
 We are a passionate, non-profit collective of capoeira enthusiasts based on Koh Samui. Our mission is to enjoy the game of capoeira while spreading knowledge and awareness of its rich Afro-Brazilian traditions—music, movements, and culture. We welcome everyone to join us in celebrating this dynamic art form. Read Our [Manifesto](#manifesto)
 
 ## What is Capoeira?
+
 Capoeira is a unique blend of martial arts, acrobatics, music, and dance, originating from Afro-Brazilian culture. It’s a sport, a game, and a powerful form of self-expression that combines fluid movements with rhythmic music, creating a vibrant and energetic experience.
 
 ## Schedule & Location
-Check the exact schedule via WhatsApp.  
 
-<!-- 
-**Wednesdays, 11:00 AM**  
+Check the exact schedule via WhatsApp.
+
+<!--
+**Wednesdays, 11:00 AM**
 At BxB Fight Lab, Lamai, Koh Samui
 
 [![Location](/images/map-bxb.jpg)](https://maps.app.goo.gl/e8WMttX7tELWdksT7)
@@ -26,8 +28,8 @@ At Hua Thanon Viewpoint, Koh Samui
 
 [![Location](/images/map.png)](https://maps.app.goo.gl/cRNyjDFFbD591e5z8)
 
-
 ## Contact
+
 - [WhatsApp](https://wa.link/cmotjh)
 - [Facebook](https://facebook.com/capoeirasamui)
 - [Instagram](https://instagram.com/capoeirasamui)
@@ -60,6 +62,8 @@ To cultivate a vibrant, inclusive community where capoeira can flourish, and to 
 Axé!
 
 ## Our friends
-* [CapoeiraWiki](https://capoeirawiki.org/), the free capoeira encyclopedia
-* [The Shanghai Center for Capoeira](https://movementfamily.com)
-* [Capoeira Mandinga Hangzhou](https://capoeirahangzhou.com)
+
+- [CapoeiraWiki](https://capoeirawiki.org/), the free capoeira encyclopedia
+- [50 Lessons on Capoeira, Teaching, and Life](https://alexmaltsev.me/50lessons/) — book recommendation
+- [The Shanghai Center for Capoeira](https://movementfamily.com)
+- [Capoeira Hangzhou (China)](https://capoeirahangzhou.com)
