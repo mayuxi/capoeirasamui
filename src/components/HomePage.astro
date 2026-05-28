@@ -1,0 +1,184 @@
+---
+import Base from "../layouts/Base.astro";
+import { languages, defaultLang } from "../i18n/index.js";
+
+const { lang = defaultLang, tr } = Astro.props;
+const dir = languages[lang]?.dir ?? "ltr";
+
+// Build lang switcher paths
+const langSwitcher = Object.entries(languages).map(([code, info]) => ({
+  code,
+  label: info.label,
+  href: code === defaultLang ? "/" : `/${code}/`,
+}));
+---
+
+<Base title={tr.meta_title} description={tr.meta_desc} lang={lang} dir={dir}>
+  <nav>
+    <a class="nav-logo" href={lang === defaultLang ? "/" : `/${lang}/`}>
+      <img
+        src="/images/logo.svg"
+        alt="Capoeira Samui"
+        width="120"
+        height="120"
+      />
+    </a>
+    <ul class="nav-links">
+      {
+        langSwitcher.map(({ code, label, href }) => (
+          <li>
+            <a
+              href={href}
+              class={code === lang ? "active" : ""}
+              hreflang={code}
+            >
+              {label}
+            </a>
+          </li>
+        ))
+      }
+      <li class="nav-sep" aria-hidden="true"></li>
+      <li>
+        <a href="#manifesto" class="nav-manifesto">{tr.nav_manifesto}</a>
+      </li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container">
+      <h1>{tr.hero_title}</h1>
+      <p>{tr.hero_subtitle}</p>
+      <a href="#manifesto" class="btn">{tr.hero_cta}</a>
+    </div>
+  </section>
+
+  <!-- WHAT IS CAPOEIRA -->
+  <section>
+    <div class="container">
+      <span class="section-label">Capoeira</span>
+      <h2>{tr.what_title}</h2>
+      <p>{tr.what_body}</p>
+    </div>
+  </section>
+
+  <!-- SCHEDULE -->
+  <section>
+    <div class="container">
+      <span class="section-label">Roda</span>
+      <h2>{tr.schedule_title}</h2>
+      <p>{tr.schedule_check}</p>
+      <div class="schedule-card">
+        <strong>{tr.schedule_time}</strong>
+        {tr.schedule_place}
+      </div>
+      <a
+        href="https://maps.app.goo.gl/cRNyjDFFbD591e5z8"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="map-link"
+      >
+        <img
+          src="/images/map.png"
+          alt={tr.schedule_place}
+          style="width:100%;height:auto;display:block;"
+        />
+      </a>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section>
+    <div class="container">
+      <span class="section-label">↗</span>
+      <h2>{tr.contact_title}</h2>
+      <div class="contact-links">
+        <a
+          href="https://wa.link/cmotjh"
+          target="_blank"
+          rel="noopener noreferrer">WhatsApp</a
+        >
+        <a
+          href="https://facebook.com/capoeirasamui"
+          target="_blank"
+          rel="noopener noreferrer">Facebook</a
+        >
+        <a
+          href="https://instagram.com/capoeirasamui"
+          target="_blank"
+          rel="noopener noreferrer">Instagram</a
+        >
+      </div>
+    </div>
+  </section>
+
+  <!-- MANIFESTO -->
+  <section id="manifesto">
+    <div class="container">
+      <span class="section-label">Axé</span>
+      <h2>{tr.manifesto_title}</h2>
+      <p class="manifesto-body">{tr.manifesto_body}</p>
+
+      <h3
+        style="font-family: var(--font-display); font-size: 1.3rem; margin-bottom: 1rem; color: var(--gold);"
+      >
+        {tr.beliefs_title}
+      </h3>
+
+      <div class="beliefs">
+        {
+          [1, 2, 3, 4, 5].map((n) => (
+            <div class="belief">
+              <div class="belief-num">{n}</div>
+              <h3>{tr[`belief_${n}_title`]}</h3>
+              <p>{tr[`belief_${n}`]}</p>
+            </div>
+          ))
+        }
+      </div>
+
+      <p><strong>{tr.mission_title}:</strong> {tr.mission_body}</p>
+      <p class="axe">{tr.axe}</p>
+    </div>
+  </section>
+
+  <!-- FRIENDS -->
+  <section>
+    <div class="container">
+      <span class="section-label">Links</span>
+      <h2>{tr.friends_title}</h2>
+      <ul class="friends-list">
+        <li>
+          <a
+            href="https://capoeirawiki.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >CapoeiraWiki — the free capoeira encyclopedia</a>
+        </li>
+        <li>
+          <a
+            href="https://alexmaltsev.me/50lessons/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >50 Lessons on Capoeira, Teaching, and Life</a>
+        </li>
+        <li>
+          <a
+            href="https://movementfamily.com"
+            target="_blank"
+            rel="noopener noreferrer">The Shanghai Center for Capoeira</a>
+        </li>
+        <li>
+          <a
+            href="https://capoeirahangzhou.com"
+            target="_blank"
+            rel="noopener noreferrer">Capoeira Hangzhou (China)</a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <a href={lang === defaultLang ? "/" : `/${lang}/`}>{tr.copyright}</a>
+  </footer>
+</Base>

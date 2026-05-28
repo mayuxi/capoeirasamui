@@ -1,0 +1,7 @@
+---
+import HomePage from '../../components/HomePage.astro';
+import { useTranslations } from '../../i18n/index.js';
+
+const tr = useTranslations('ru');
+---
+<HomePage lang="ru" tr={tr} />
