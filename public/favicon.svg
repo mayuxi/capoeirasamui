@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <filter id="brush" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="turbulence" baseFrequency="0.02 0.025" numOctaves="4" seed="31" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="0.9" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+
+  <rect width="64" height="64" fill="#f5f0e8" rx="8"/>
+
+  <!-- Enso circle: center 32,32 r=26, gap at top-left -->
+  <circle
+    cx="32" cy="32" r="26"
+    fill="none"
+    stroke="#8b3a1f"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-dasharray="155.4 8"
+    stroke-dashoffset="142.9"
+    filter="url(#brush)"
+    opacity="0.90"
+  />
+
+  <!-- C letter centered -->
+  <text
+    x="32" y="41"
+    text-anchor="middle"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-weight="600"
+    font-size="30"
+    fill="#8b3a1f"
+  >C</text>
+</svg>

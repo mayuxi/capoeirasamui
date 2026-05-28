@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <!-- Very subtle brush wobble — keeps the circle round, just adds ink texture -->
+    <filter id="brush" x="-8%" y="-8%" width="116%" height="116%">
+      <feTurbulence type="turbulence" baseFrequency="0.018 0.022" numOctaves="4" seed="31" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.2" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="400" fill="#f5f0e8"/>
+
+  <!--
+    Perfect mathematical circle, center 200,200 radius 148.
+    Circumference: 929.9px. dasharray: 884.9 + 45 gap.
+    dashoffset: 813.7 — gap falls at top-left (~330 degrees).
+    stroke-linecap: round — natural taper at both ends.
+  -->
+  <circle
+    cx="200" cy="200" r="148"
+    fill="none"
+    stroke="#8b3a1f"
+    stroke-width="13"
+    stroke-linecap="round"
+    stroke-dasharray="884.9 45"
+    stroke-dashoffset="813.7"
+    filter="url(#brush)"
+    opacity="0.88"
+  />
+
+  <!-- Second pass: thinner layer for ink depth -->
+  <circle
+    cx="200" cy="200" r="148"
+    fill="none"
+    stroke="#8b3a1f"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-dasharray="884.9 45"
+    stroke-dashoffset="813.7"
+    filter="url(#brush)"
+    opacity="0.15"
+  />
+
+  <!-- CAPOEIRA — baseline y=192 -->
+  <text
+    x="200" y="192"
+    text-anchor="middle"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-weight="600"
+    font-size="42"
+    letter-spacing="2"
+    fill="#1a1612"
+  >CAPOEIRA</text>
+
+  <!-- Gold divider at center y=200 -->
+  <line x1="130" y1="200" x2="270" y2="200"
+    stroke="#c8963e" stroke-width="0.8" opacity="0.8"/>
+
+  <!-- SAMUI — baseline y=250 -->
+  <text
+    x="200" y="250"
+    text-anchor="middle"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-weight="600"
+    font-size="42"
+    letter-spacing="9"
+    fill="#8b3a1f"
+  >SAMUI</text>
+
+</svg>

@@ -1,0 +1,2 @@
+# Cloudflare Pages _redirects
+# No special redirects needed for static Astro — all routes are pre-rendered
